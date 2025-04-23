@@ -69,9 +69,13 @@ endmodule
 
 
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
+```
 
+Developed by:MARIMUTHU MATHAVAN 
+RegisterNumber:212224230153
+*/
+```
 
 **RTL Schematic**
 FULL ADDER
